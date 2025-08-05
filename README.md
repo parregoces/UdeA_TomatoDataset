@@ -1,11 +1,51 @@
-# UdeA_TomatoDataset
-This dataset contains weekly measurements collected from 135 greenhouse tomato plants under 27 different treatment combinations. The data collection was carried out from November 9, 2023, to April 1, 2024, totaling 20 sessions, each corresponding to one week of measurements. The dataset combines information from a mobile station equipped with IoT sensors, manual measurements, and yield-related variables.
+# Mobile and Manual Dataset for Greenhouse Tomato Crop
 
-The study was conducted at the Technological Development and Innovation Campus of the University of Antioquia (UdeA), located in the Carmen de Viboral campus. Carmen de Viboral is a municipality in the southeastern region of eastern Antioquia, Colombia, at an altitude of 2,150 meters above sea level and an average temperature of 17 °C.
+## Summary
+This dataset contains weekly measurements from 135 tomato plants grown in a greenhouse under 27 different treatment combinations. Data were collected between November 9, 2023, and April 1, 2024, using a mobile station with IoT sensors, manual observations, and yield variables.
 
-This dataset enables various analyses of treatment effects and estimation of yield-related variables. The raw dataset is provided in CSV format and includes 2,664 records and 44 variables. A high number of missing or anomalous values were present and were addressed using the method described in Section 4.
+## Location
+The study was conducted at the Technological Development and Innovation Campus of the University of Antioquia (UdeA), located in Carmen de Viboral, Antioquia, Colombia (2,150 meters above sea level, average temperature: 17°C).
 
-A detailed description of the sensors used, measured variables, and data structure can be found in Section 2.
+## Data Collection
+- Frequency: Once per week
+- Number of sessions: 20
+- Sensor types: Mobile IoT-based station and manual instruments
+- Treatment groups: 27 combinations
+- Number of plants: 135
 
-The dataset is shared under a Creative Commons Attribution (CC BY) license and is part of the project:
-"Development of an intelligent and energy-autonomous agriculture platform for continuous monitoring of relevant variables aimed at improving productivity and mitigating environmental impact in Antioquia and Quindío horticultural crops" (BPIN Code 2022000100012), executed by the University of Antioquia.
+## File Information
+- Format: CSV
+- Rows: 2,664
+- Columns: 44
+- Missing or anomalous values were processed using the method described in Section 4 of the associated documentation.
+
+## Contents
+The dataset includes:
+- Sensor-based environmental measurements
+- Manually collected variables
+- Yield-related variables
+- Treatment identifiers
+
+A detailed explanation of sensors, variables, and structure is available in Section 2 of the documentation.
+
+## License
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Project
+This dataset was developed as part of the project:
+"Development of an intelligent and energy-autonomous agriculture platform for continuous monitoring of relevant variables aimed at improving productivity and mitigating environmental impact in Antioquia and Quindío horticultural crops"  
+(BPIN Code: 2022000100012)  
+Executed by the University of Antioquia.
+
+## Suggested Use
+The dataset supports analysis of treatment effects, yield prediction modeling, and development of decision support systems for smart agriculture.
+
+## Citation
+Please cite this dataset as:
+[Your citation format, if available]
+
+## Contact
+For more information, contact:
+[Your Name or Research Group]  
+[Institutional Email Address]
+
