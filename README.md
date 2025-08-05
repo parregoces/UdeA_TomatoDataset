@@ -42,7 +42,7 @@ The dataset supports analysis of treatment effects, yield prediction modeling, a
 
 ## Citation
 Please cite this dataset as:
-University of Antioquia. (2024). *Mobile and Manual Dataset for Greenhouse Tomato Crop* [Data set]. PAI Project, University of Antioquia. https://www.udea.edu.co (CC BY 4.0)
+[1]  Universidad de Antioquia, «Mobile and Manual Dataset for Greenhouse Tomato Crop». Zenodo, ago. 05, 2025. doi: 10.5281/zenodo.16745911.
 
 ## Contact
 For more information about dataset usage:
@@ -51,8 +51,4 @@ PAI Project
 University of Antioquia  
 paulina.arregocesg@udea.edu.co
 
-## Contact
-For more information, contact:
-[Your Name or Research Group]  
-[Institutional Email Address]
 
